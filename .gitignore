@@ -1,0 +1,13 @@
+.env
+.DS_Store
+backend/.DS_Store
+node_modules/.DS_Store
+
+
+node_modules/
+npm-debug.log*
+Thumbs.db
+dist/
+build/
+.vscode/
+.idea/
